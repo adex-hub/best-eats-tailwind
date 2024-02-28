@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adex-hub.github.io/best-eats-tailwind/static/css/main.c26b5d24.css",
+    "main.js": "/adex-hub.github.io/best-eats-tailwind/static/js/main.a17bf3b6.js",
+    "index.html": "/adex-hub.github.io/best-eats-tailwind/index.html",
+    "main.c26b5d24.css.map": "/adex-hub.github.io/best-eats-tailwind/static/css/main.c26b5d24.css.map",
+    "main.a17bf3b6.js.map": "/adex-hub.github.io/best-eats-tailwind/static/js/main.a17bf3b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26b5d24.css",
+    "static/js/main.a17bf3b6.js"
+  ]
+}
